@@ -2,8 +2,8 @@
 
 > star 了很多与前端学习面试相关的仓库，但一直也没怎么看，现在将这些资源整合在一起，方便后续查看
 
-| 资源                                                                                              | 类型     | 说明                                   |
-| ------------------------------------------------------------------------------------------------- | -------- | -------------------------------------- |
+| 资源                                                                                           | 类型     | 说明                                   |
+| ---------------------------------------------------------------------------------------------- | -------- | -------------------------------------- |
 | [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)                     | 资源合集 | 大而广，理清全局，全栈推荐             |
 | [Front-end web developer](https://developer.mozilla.org/zh-CN/docs/Learn/Front-end_web_developer) | 个人提升 | DMN 推出的前端学习路线课程             |
 | [freeCodeCamp](https://chinese.freecodecamp.org/learn/)                                           | 个人提升 | 全栈基础学习网站，适用基础入门         |
@@ -19,6 +19,7 @@
 | [大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)                         | 面试     | 面试刷题                               |
 | [前端面试](https://bigfrontend.dev/zh/problem)                                                    | 面试     | 面试刷题网站                           |
 | [Math](https://github.com/easy-math/Math)                                                         | 其他     | 适合前端入门的高数系列                 |
+| [大厂面试题每日一题](https://q.shanyue.tech/)                                                     | 面试     | 面试刷题                               |
 
 致谢
 
@@ -37,3 +38,4 @@
 - [大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
 - [前端面试](https://bigfrontend.dev/zh/problem)
 - [Math](https://github.com/easy-math/Math)
+- [大厂面试题每日一题](https://q.shanyue.tech/)
